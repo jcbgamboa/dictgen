@@ -8,5 +8,7 @@ file and produces a minimally working dictionary for my Kindle. So here I'll
 make it. As in Jake McCrary's use case, I have my own list of words that I
 want to turn into a dictionary.
 
+For Kindlegen, I had to use the one I found in the Internet Archive:
 
+* https://archive.org/details/kindlegen_linux_2_6_i386_v2_9
 
