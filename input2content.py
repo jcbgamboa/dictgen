@@ -45,9 +45,9 @@ def read_input_file(args):
 
 entry_template = '''<idx:entry name="default" scriptable="yes" spell="yes">
   <h5><dt><idx:orth>{}</idx:orth></dt></h5>
-  <dd>Part of speech: {}</dd>
   <dd>Translation: {}</dd>
-  {}
+  <p><dd>Part of speech: {}</dd>
+  <p>{}
 </idx:entry>
 <hr/>'''
 

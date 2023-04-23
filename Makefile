@@ -2,7 +2,7 @@
 
 KINDLEGEN=./kindlegen
 
-DICTIONARY_NAME='My Kindle Dictionary'
+DICTIONARY_NAME='Custom German Dictionary'
 DICTIONARY_AUTHOR='Anonymous'
 DICTIONARY_LANG=de
 DICTIONARY_IN_LANG=de
